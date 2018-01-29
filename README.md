@@ -8,7 +8,6 @@ Dependencies:
     
     Bezier Curve lines Unity Package - https://github.com/SKKSaikia/JoyRide/blob/master/BezierCurveLines.unitypackage 
     
-    PreProcessing Package
     
 Building the game in <b>Unity</b>
 <img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/1.JPG">
