@@ -10,6 +10,8 @@ Dependencies:
     
     
 Building the game in <b>Unity</b>
+:scene:
+
 <img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/1.JPG">
 
 The Game UI:
