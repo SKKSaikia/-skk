@@ -20,4 +20,4 @@ The Game UI:
 
 Runtime:
 -
-<img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/run.gif">
+<center><img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/run.gif"></center>
