@@ -1,7 +1,7 @@
 # JoyRide
 a line riding game
 The driver is Joy, my friend,
-<img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/JD.JPG">
+<img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/aab.jpg">
 
 Building the game in <b>Unity</b>
 <img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/1.JPG">
