@@ -18,6 +18,6 @@ The Game UI:
 -
 <img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/22.JPG">
 
-Runtime:
+Gameplay:
 -
 _____<img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/run.gif">
