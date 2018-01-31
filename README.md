@@ -1,5 +1,5 @@
 # JoyRide
-A simple line riding game developed using Unity.The face in the car is Joy, my friend, **pun intended in the name of the game.
+A simple line riding game developed using Unity.The face in the car is of Joy, my friend, **pun intended in the name of the game.
 <img src="https://github.com/SKKSaikia/JoyRide/blob/master/res/aab.jpg">
 
 Dependencies:
